@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 
-<h3 align="left">Connect</h3>
-<h5 align="left">with me:</h5>
+<h3 align="left">You can find me on:</h3>
 <p align="left">
 <a href="https://codepen.io/fthkryksl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fthkryksl" height="30" width="40" /></a>
 <a href="https://twitter.com/47fatihman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="47fatihman" height="30" width="40" /></a>
