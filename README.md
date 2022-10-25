@@ -1,6 +1,4 @@
-<h2 align="center">Hello 👋, I'm Fatih</h2>
-<h4 align="center">a programmer in Germany</h4>
-<h1 align="center"> </h1>
+<h1 align="center">Hello 👋, I'm Fatih</h1>
 
 <h3 align="left">You can find me on:</h3>
 <p align="left">
